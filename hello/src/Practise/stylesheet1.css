@@ -1,0 +1,14 @@
+.Manu{
+    text-align: center;
+    background-color: rgb(123, 255, 0);
+    width:500px;
+    margin:auto;
+}
+h1{
+    color: saddlebrown;
+    font-size:40px;
+}
+p{
+    color:blue;
+    font-size: 40px;
+}
